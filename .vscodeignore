@@ -1,0 +1,9 @@
+# Editor directories
+.vscode/**
+.vscode-test/**
+
+# Ignore files
+.gitignore
+
+# Configuration files
+.editorconfig
