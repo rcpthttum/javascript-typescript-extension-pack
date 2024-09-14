@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "name": "javascript-typescript-extension-pack",
+  "displayName": "Javascript/Typescript Extension Pack",
+  "description": "A collection of extensions for Javascript and Typescript development",
+  "publisher": "rcpthttum",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcpthttum/javascript-typescript-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rcpthttum/javascript-typescript-extension-pack/issues"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "categories": ["Extension Packs"],
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "extensionPack": [
+    "chwoerz.ts-worksheet",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "formulahendry.auto-complete-tag",
+    "imgildev.vscode-auto-barrel",
+    "kamikillerto.vscode-colorize",
+    "meganrogge.template-string-converter",
+    "mkxml.vscode-filesize",
+    "stneveadomi.grepc",
+    "streetsidesoftware.code-spell-checker",
+    "toanchivu.tcv-typescript-constructor-generator",
+    "vincaslt.highlight-matching-tag",
+    "visualstudioexptteam.vscodeintellicode",
+    "xabikos.javascriptsnippets",
+    "yoavbls.pretty-ts-errors",
+    "z0gsh1u.vscode-ts-getset"
+  ]
+}
