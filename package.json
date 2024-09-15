@@ -12,6 +12,11 @@
   "bugs": {
     "url": "https://github.com/rcpthttum/javascript-typescript-extension-pack/issues"
   },
+  "icon": "assets/images/logo.png",
+  "galleryBanner": {
+    "color": "#00bca1",
+    "theme": "light"
+  },
   "keywords": [
     "javascript",
     "typescript"
