@@ -60,4 +60,4 @@ This extension pack is a collection of JavaScript and TypeScript tools for Visua
 
 All credits goes to original authors of the above mentioned extensions.
 
-Happy Coding!
+**Happy Coding!**
