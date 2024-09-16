@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "javascript-typescript-extension-pack",
   "displayName": "Javascript/Typescript Extension Pack",
   "description": "A collection of extensions for Javascript and Typescript development",
@@ -41,6 +41,7 @@
     "vincaslt.highlight-matching-tag",
     "visualstudioexptteam.vscodeintellicode",
     "xabikos.javascriptsnippets",
+    "yassineldeeb.env-typings",
     "yoavbls.pretty-ts-errors",
     "z0gsh1u.vscode-ts-getset"
   ]
